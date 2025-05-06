@@ -20,12 +20,12 @@ namespace Cndicionales
 
             //if (edad >= 18)
             //{
-            //    Console.WriteLine("¿Es usted hembra o varón?");
+            //    Console.WriteLine("¿Usted es hembra o varón?");
             //    genero = Console.ReadLine();
 
             //    if (genero == "hembra")
             //    {
-            //        Console.WriteLine("Puede Entrar gratis");
+            //        Console.WriteLine("Puede entrar gratis");
             //    }
             //    else
             //    {
@@ -33,7 +33,7 @@ namespace Cndicionales
             //    }
             //} else
             //{
-            //    Console.WriteLine("no puede ingresar");
+            //    Console.WriteLine("No puede entrar");
 
             //}
             //Console.ReadKey();
