@@ -477,7 +477,7 @@ namespace Cndicionales
 
 
 
-            //EJERCICIO    1                                                   20
+            //EJERCICIO    13                                                   20
 
 
             //Console.WriteLine("¿Cúal es su nombre?");
